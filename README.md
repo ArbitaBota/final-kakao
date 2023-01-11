@@ -1,3 +1,3 @@
 # kakao clone 2023 Update
 
-CSS got so much better!
+html & css are so much fun!
